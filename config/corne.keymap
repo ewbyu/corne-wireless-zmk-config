@@ -58,10 +58,10 @@
 
             display-name = "Symbols";
             bindings = <
-&trans  &kp N1        &kp N2     &kp N3      &kp N4     &kp N5       &kp N6         &kp N7          &kp N8                &kp N9                 &kp N0           &trans
-&trans  &kp ASTERISK  &kp SLASH  &kp PLUS    &kp MINUS  &kp UNDER    &kp AMPERSAND  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &trans
-&trans  &kp AT_SIGN   &kp HASH   &kp DOLLAR  &kp EQUAL  &kp CARET    &kp PIPE       &kp LBKT        &kp LESS_THAN         &kp GREATER_THAN       &kp RBKT         &trans
-                                 &trans      &trans     &trans       &trans         &trans          &trans
+&trans  &kp N0       &kp N1     &kp N2      &kp N3     &kp N4       &kp N5         &kp N6          &kp N7                &kp N8                 &kp N9           &trans
+&trans  &kp SLASH    &kp ASTRK  &kp MINUS   &kp PLUS   &kp UNDER    &kp AMPERSAND  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &trans
+&trans  &kp AT_SIGN  &kp HASH   &kp DOLLAR  &kp EQUAL  &kp CARET    &kp PIPE       &kp LBKT        &kp LESS_THAN         &kp GREATER_THAN       &kp RBKT         &trans
+                                &trans      &trans     &trans       &trans         &trans          &trans
             >;
         };
 
